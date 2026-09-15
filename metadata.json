@@ -1,0 +1,6 @@
+{
+  "name": "Chef.M_K",
+  "description": "دستیار حرفه‌ای فروشگاه پروتئینی - مرینیت، ادویه، استیک، برگر و فرآوری تخصصی محصولات گوشتی",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
